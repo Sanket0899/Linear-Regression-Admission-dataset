@@ -1,5 +1,5 @@
 import pandas as pd
-
+# heroku link-https://predictadmission11.herokuapp.com/predict
 import pickle
 
 import numpy as np
